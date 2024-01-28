@@ -1,2 +1,4 @@
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
+image/Homepage-Demo-Drive-Desktop-NA.webm
+image/Homepage-Model-Y-Desktop-NA-v2.mp4
